@@ -1,5 +1,5 @@
-<p align=center><img src="../assets/blindnet-light.png#gh-light-mode-only" height="250" /></p>
-<p align=center><img src="../assets/blindnet-dark.png#gh-dark-mode-only" height="250" /></p>
+<p align=center><img src="https://user-images.githubusercontent.com/7578400/163277439-edd00509-1d1b-4565-a0d3-49057ebeb92a.png" height="250" /></p>
+
 
 <p align=center><strong>Helping developers make  software that users love and trust.</strong></p>
 
