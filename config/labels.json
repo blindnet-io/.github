@@ -1,0 +1,215 @@
+[
+  {
+    "name": "type: bug",
+    "aliases": [
+      "bug"
+    ],
+    "description": "Something isn't working",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "type: enhancement",
+    "aliases": [
+      "enhancement",
+      "feature",
+      "feature request"
+    ],
+    "description": "New feature or request",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "type: doc",
+    "aliases": [
+      "doc",
+      "documentation"
+    ],
+    "description": "Improvements or additions to documentation",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "type: epic",
+    "aliases": [
+      "epic"
+    ],
+    "description": "Placeholder for large requirements that should be broken down into specific issues",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "type: decision / discussion / question",
+    "aliases": [
+      "decision",
+      "discussion",
+      "question",
+      "RFC"
+    ],
+    "description": "Conversation about a specific topic to reach a decision or transfer/gather information",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "type: request",
+    "aliases": [
+      "request"
+    ],
+    "description": "Informal request for help or information",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "need: triage",
+    "aliases": [
+      "triage"
+    ],
+    "description": "Labels, milestones and projects needs to be defined",
+    "color": "FBCA04"
+  },
+  {
+    "name": "need: further discussion",
+    "description": "More conversation is needed to determine next steps",
+    "color": "FBCA04"
+  },
+  {
+    "name": "need: investigation",
+    "description": "Requires some digging to determine if action is needed",
+    "color": "FBCA04"
+  },
+  {
+    "name": "need: more info",
+    "description": "Reporter must clarify the issue or add more details to the pull request description",
+    "color": "FBCA04"
+  },
+  {
+    "name": "need: repro steps",
+    "description": "The issue can't be reproduced with the information given",
+    "color": "FBCA04"
+  },
+  {
+    "name": "effort1: easy (hours)",
+    "color": "B6F4F2"
+  },
+  {
+    "name": "effort2: medium (days)",
+    "color": "B6F4F2"
+  },
+  {
+    "name": "effort3: hard (weeks/months)",
+    "color": "B6F4F2"
+  },
+  {
+    "name": "priority: 0 (critical)",
+    "description": "Critical priority issue that must be resolved immediately",
+    "color": "C2E0C6"
+  },
+  {
+    "name": "priority: 1 (urgent)",
+    "description": "Urgent priority issue that should be resolved before the next release/phase",
+    "color": "C2E0C6"
+  },
+  {
+    "name": "priority: 2 (required)",
+    "description": "High priority issue that should be resolved as soon as possible",
+    "color": "C2E0C6"
+  },
+  {
+    "name": "priority: 3 (necessary)",
+    "description": "Medium priority issue that needs to be resolved ",
+    "color": "C2E0C6"
+  },
+  {
+    "name": "priority: 4 (useful)",
+    "description": "Low-priority issue that needs to be resolved",
+    "color": "C2E0C6"
+  },
+  {
+    "name": "priority: 5 (nice to have)",
+    "aliases": [
+      "priority: 3 (nice to have)",
+      "nice to have"
+    ],
+    "description": "Very low-priority issue for consideration",
+    "color": "C2E0C6"
+  },
+  {
+    "name": "state: blocked",
+    "color": "B60205"
+  },
+  {
+    "name": "state: WIP",
+    "color": "e8d120"
+  },
+  {
+    "name": "state: needs design",
+    "color": "20e8d1"
+  },
+  {
+    "name": "state: needs eng input",
+    "aliases": [
+      "discuss: Tech"
+    ],
+    "description": "Needs input from the blindnet engineering team",
+    "color": "20e8d1"
+  },
+  {
+    "name": "state: needs exec input",
+    "aliases": [
+      "discuss: Exec"
+    ],
+    "description": "Needs input from the blindnet executives",
+    "color": "20e8d1"
+  },
+  {
+    "name": "state: needs com/devrel input",
+    "description": "Needs input from the blindnet communication/devrel team",
+    "color": "20e8d1"
+  },
+  {
+    "name": "state: needs product input",
+    "aliases": [
+      "discuss: Strat"
+    ],
+    "description": "Needs input from the blindnet product team",
+    "color": "20e8d1"
+  },
+  {
+    "name": "state: needs community input",
+    "description": "Needs input from the blindnet community members and partners",
+    "color": "20e8d1"
+  },
+  {
+    "name": "resolution: duplicate",
+    "aliases": [
+      "duplicate"
+    ],
+    "description": "This issue or pull request already exists",
+    "color": "cfd3d7"
+  },
+  {
+    "name": "resolution: wontfix",
+    "aliases": [
+      "wontfix"
+    ],
+    "description": "This will not be worked on",
+    "color": "ffffff"
+  },
+  {
+    "name": "type: minutes",
+    "aliases": [
+      "minutes"
+    ],
+    "description": "Summarized record of something discussed outside Github",
+    "color": "bfdadc"
+  },
+  {
+    "name": "draft",
+    "description": "Description needs to be completed",
+    "color": "e173ef"
+  },
+  {
+    "name": "help wanted",
+    "description": "Extra attention is needed",
+    "color": "008672"
+  },
+  {
+    "name": "good first issue",
+    "description": "Good for newcomers",
+    "color": "7057ff"
+  }
+]
