@@ -207,6 +207,22 @@
     "color": "bfdadc"
   },
   {
+    "name": "env: staging",
+    "aliases": [
+      "staging"
+    ],
+    "description": "Related to staging environment",
+    "color": "006B75"
+  },
+  {
+    "name": "env: production",
+    "aliases": [
+      "production"
+    ],
+    "description": "Related to production environment",
+    "color": "006B75"
+  },
+  {
     "name": "draft",
     "description": "Description needs to be completed",
     "color": "e173ef"
