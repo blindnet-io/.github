@@ -14,7 +14,16 @@
       "feature",
       "feature request"
     ],
-    "description": "New feature or request",
+    "description": "Improve quality of an existing feature",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "type: feature",
+    "aliases": [
+      "feature",
+      "feature request"
+    ],
+    "description": "Adding or requesting a new feature",
     "color": "FEF2C0"
   },
   {
