@@ -1,0 +1,59 @@
+[
+  {
+    "name": "scope: events",
+    "aliases": [
+      "scope: basic DevRel"
+    ],
+    "description": "Technical Events",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: community",
+    "aliases": [
+    ],
+    "description": "Community Building and Management",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: content creation",
+    "aliases": [
+    ],
+    "description": "",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: DevX",
+    "aliases": [
+    ],
+    "description": "Improve Developer Experience on our products",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: docs",
+    "aliases": [
+    ],
+    "description": "Documentation of the DevRel and Communication process and frame",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: outreach",
+    "aliases": [
+    ],
+    "description": "Build awareness and visibility of our company, community and products",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: strategic",
+    "aliases": [
+    ],
+    "description": "Global communication, vision and strategy",
+    "color": "AEC283"
+  },
+  {
+    "name": "scope: tooling",
+    "aliases": [
+    ],
+    "description": "",
+    "color": "AEC283"
+  },
+]
