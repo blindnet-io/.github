@@ -8,9 +8,5 @@ We use this file with [github-label-sync](https://github.com/Financial-Times/git
 ```bash
 npm i -g github-label-sync
 
-github-label-sync
-  --allow-added-labels
-  --access-token xxxxx
-  --labels labels.json*
-  blindnet-io/REPO
+github-label-sync --allow-added-labels --labels global-labels.json --access-token xxxxx blindnet-io/REPO
 ```
