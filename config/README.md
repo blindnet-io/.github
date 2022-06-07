@@ -17,8 +17,10 @@ npm i -g github-label-sync
 github-label-sync --allow-added-labels --labels global-labels.json --access-token "${GHKEY}" blindnet-io/REPO
 ```
 
-To update the labels on all repositories associated with a specific configuration, run:
+To update the labels on all repositories associated with a specific configuration, [create a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token), add it to a `GHKEY` environment variable, and run the [label-sync.sh](./label-sync.sh) script:
+
 
 ```bash
-(export CFG="global"; xargs -0 -I '{}' -n 1 github-label-sync --allow-added-labels --access-token "${GHKEY}" --labels "${CFG}-labels.json" '{}' < <(tr \\n \\0 <"./${CFG}-repos.list"))
+export GHKEY=<your github personal access token>
+./label-sync.sh
 ```
