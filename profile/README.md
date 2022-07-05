@@ -5,7 +5,7 @@
 
 <br />
 
-<p align="center">:rocket: <a href="https://docs.blindnet.io/quickstart.html">Get started with blindnet SDK</a></p>
+<p align="center">:rocket: <a href="https://blindnet.dev/docs/quickstart">Get started with blindnet SDK</a></p>
 
 <p align=center>:mega: <a href="https://blindnet.io/manifesto">Read our Manifesto</a></p>
 
