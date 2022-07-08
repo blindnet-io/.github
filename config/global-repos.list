@@ -29,3 +29,5 @@ blindnet-io/blindsend
 blindnet-io/password-assistant
 blindnet-io/privacy-computation-engine
 blindnet-io/wc-priv-request
+blindnet-io/data-access-component
+blindnet-io/storage-connector-java
